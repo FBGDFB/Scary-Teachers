@@ -2,7 +2,7 @@
     "Virtion": "v1.0.0",
     "OfferWellappKey": "1260a05bd",
     "EnableOfferWell": 1,
-    "EnableAdsTestMode": 1,
+    "EnableAdsTestMode": 0,
     "UseTestMode": true,
     "appKey": "1260a05bd",
     "bannerAdUnit": "e7rudmxu9j",
