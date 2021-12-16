@@ -1,7 +1,7 @@
 {
     "UpdateURL": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Huawei/UpgradeData.json",
     "AdsManagerURL": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Huawei/AdsDATA.json",
-    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Huawei/MasterData.json",
+    "MoreGameURL": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Huawei/MoreGame.json",
     "MoreGameDataURL": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Huawei/MoreGameData.json",
     "ContactDataURL": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/Huawei/AvatarsChatData.json",
     "OneSignalPushId": "",
