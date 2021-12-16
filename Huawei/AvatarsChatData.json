@@ -1,20 +1,7 @@
 {
     "Virtion": 2,
     "Data": [
-        {
-            "Name": "Ms Judy Dellfire",
-            "Nomber": "+02938440",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB//main/teachers/1.jpg",
-            "ChatDataUrl": "http://194.163.154.196/allchats/scarysonic1E.json",
-            "CallDataUrl": "http://194.163.154.196/allaudios/scarysonic1.mp3",
-            "VideoDataUrl": "http://194.163.154.196/allvideos/scarysonic1.mp4",
-            "Best": true,
-            "New": true,
-            "Coins": 10
-        },
+        
         {
             "Name": "Ms. Onyx Grudge",
             "Nomber": "+2007399440",
@@ -56,6 +43,19 @@
             "Best": false,
             "New": false,
             "Coins": 15
+        },{
+            "Name": "Ms Judy Dellfire",
+            "Nomber": "+02938440",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB//main/teachers/1.jpg",
+            "ChatDataUrl": "http://194.163.154.196/allchats/scarysonic1E.json",
+            "CallDataUrl": "http://194.163.154.196/allaudios/scarysonic1.mp3",
+            "VideoDataUrl": "http://194.163.154.196/allvideos/scarysonic1.mp4",
+            "Best": true,
+            "New": true,
+            "Coins": 10
         }
     ]
 }
