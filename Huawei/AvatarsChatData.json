@@ -56,20 +56,6 @@
             "Best": false,
             "New": false,
             "Coins": 15
-        },
-        {
-            "Name": "Ms.Yvanni wrinkleburg",
-            "Nomber": "+09923 51 87 29",
-            "Icon": {
-                "instanceID": 0
-            },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/4.jpg",
-            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw3/Chat.json",
-            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/hero_voice.mp3",
-            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw3/cdv.mp4",
-            "Best": false,
-            "New": false,
-            "Coins": 15
         }
     ]
 }
