@@ -14,13 +14,18 @@
                     "RobotMassage": "welcome I'm very hapy to talk to you😍"
                 },
                 {
-                    "UserMassage": "Hi",
-                    "RobotMassage": "welcome I'm very hapy to talk to you😍 "
+                    "UserMassage": "Good Morning",
+                    "RobotMassage": "Good Morning I hope you slept well😍 "
                 },
                 {
                     "UserMassage": "Hi",
                     "RobotMassage": "welcome I'm very hapy to talk to you😍"
                 },
+                {
+                    "UserMassage": "Good evening",
+                    "RobotMassage": "Good evening, how are you"
+                }
+                ,
                 {
                     "UserMassage": "Hello i love you",
                     "RobotMassage": "I love you too"
@@ -34,11 +39,11 @@
             "Anser": [
                 {
                     "UserMassage": "i'm fine Thanks",
-                    "RobotMassage": "nice "
+                    "RobotMassage": "This is good and so am I "
                 },
                 {
                     "UserMassage": "i'm good Thanks",
-                    "RobotMassage": "nice "
+                    "RobotMassage": "This is good. I would like to hear that you are in good health "
                 },
                 {
                     "UserMassage": "i feel happy to talk to you",
@@ -87,20 +92,20 @@
                     "RobotMassage": "Bingo:)"
                 },
                 {
-                    "UserMassage": "you're scary sonic",
+                    "UserMassage": "you're Ms Judy Dellfire",
                     "RobotMassage": "Bingo:)"
                 },
                 {
-                    "UserMassage": "No",
-                    "RobotMassage": "i am scary sonic"
+                    "UserMassage": "No, I haven't had the honor to meet you yet",
+                    "RobotMassage": "i am Ms Judy Dellfire"
                 },
                 {
-                    "UserMassage": "sonic",
-                    "RobotMassage": "no i'm scary sonic"
+                    "UserMassage": "Teacher",
+                    "RobotMassage": "Yes i'm Ms Judy Dellfire"
                 },
                 {
                     "UserMassage": "i don't know you",
-                    "RobotMassage": "i am scary sonic"
+                    "RobotMassage": "i am scary teacher,Ms Judy Dellfire"
                 }
             ]
         },
@@ -110,16 +115,16 @@
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "where're you from?",
-                    "RobotMassage": "I'm from usa"
+                    "UserMassage": "where're you live?",
+                    "RobotMassage": "I live  in the dark valley near the house of wickedness and witches"
                 },
                 {
                     "UserMassage": "what kind of food do you like?",
-                    "RobotMassage": "i like almost everything,and my favorite is pizza"
+                    "RobotMassage": "i like almost everything,and my favorite is Frog legs with mustard sauce"
                 },
                 {
                     "UserMassage": "favorite cartoon?",
-                    "RobotMassage": "i like ghost hunting people"
+                    "RobotMassage": "i like little witches"
                 },
                 {
                     "UserMassage": "do you think money can buy happiness?",
@@ -132,12 +137,12 @@
             ]
         },
         {
-            "RobotQuestion": "so i have a challenge for you,just give me the number for 9+6",
-            "ID": 5,
+            "RobotQuestion": "so i have a challenge for you,just give me the number for 19+6",
+            "ID": 6,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "15",
+                    "UserMassage": "25",
                     "RobotMassage": "great job "
                 },
                 {
@@ -152,7 +157,7 @@
         },
         {
             "RobotQuestion": "How many colors are in rainbows?",
-            "ID": 6,
+            "ID": 5,
             "MessageType": 0,
             "Anser": [
                 {
@@ -170,7 +175,7 @@
             ]
         },
         {
-            "RobotQuestion": "ask me!!",
+            "RobotQuestion": "I know you're curious to know more about me, you can ask me!!",
             "ID": 7,
             "MessageType": 0,
             "Anser": [
@@ -180,11 +185,11 @@
                 },
                 {
                     "UserMassage": "What pet would you love to have?",
-                    "RobotMassage": "i love humans ;)"
+                    "RobotMassage": "i love humans And beautiful frog;)"
                 },
                 {
                     "UserMassage": "what do you like to do in your spare time?",
-                    "RobotMassage": "i like to catch young and eat them :)"
+                    "RobotMassage": "i like to catch young and eat them ,No I'm just kidding I love to pick up frogs as you know they are delicious in the pan with mustard 😀"
                 }
             ]
         },
@@ -213,7 +218,7 @@
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "scary sonic",
+                    "UserMassage": "scary Teacher",
                     "RobotMassage": "you god damn right"
                 },
                 {
@@ -227,7 +232,7 @@
             ]
         },
         {
-            "RobotQuestion": "awesome can you tell me how much 2*4?",
+            "RobotQuestion": "awesome can you tell me how much 6*4?",
             "ID": 10,
             "MessageType": 0,
             "Anser": [
@@ -241,12 +246,12 @@
                 },
                 {
                     "UserMassage": "i'm not sure",
-                    "RobotMassage": "it's 8 but it's ok"
+                    "RobotMassage": "it's 24 but it's ok"
                 }
             ]
         },
         {
-            "RobotQuestion": "ask me some questions!!",
+            "RobotQuestion": "you can ask me some questions!!",
             "ID": 7,
             "MessageType": 0,
             "Anser": [
