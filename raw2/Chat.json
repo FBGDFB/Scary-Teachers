@@ -14,17 +14,23 @@
                     "RobotMassage": "welcome I'm very hapy to talk to you😍"
                 },
                 {
-                    "UserMassage": "Hi",
-                    "RobotMassage": "welcome I'm very hapy to talk to you😍 "
+                    "UserMassage": "Good Morning",
+                    "RobotMassage": "Good Morning I hope you slept well😍 "
                 },
                 {
                     "UserMassage": "Hi",
                     "RobotMassage": "welcome I'm very hapy to talk to you😍"
                 },
                 {
-                    "UserMassage": "Hello i love you",
-                    "RobotMassage": "I love you too"
+                    "UserMassage": "Good evening",
+                    "RobotMassage": "Good evening, how are you"
                 }
+                ,
+                {
+                    "UserMassage": "Hello How is it going",
+                    "RobotMassage": "It's good, I hope you are too😍"
+                }
+                
             ]
         },
         {
@@ -32,22 +38,28 @@
             "ID": 1,
             "MessageType": 0,
             "Anser": [
-                {
-                    "UserMassage": "i'm fine Thanks",
-                    "RobotMassage": "nice "
-                },
+                
                 {
                     "UserMassage": "i'm good Thanks",
-                    "RobotMassage": "nice "
+                    "RobotMassage": "This is good. I would like to hear that you are in good health "
+                },
+                 {
+                    "UserMassage": "I'm sick",
+                    "RobotMassage": "😢 I wish you a speedy recovery"
+                },
+                {
+                    "UserMassage": "i'm fine Thanks",
+                    "RobotMassage": "This is good and so am I "
                 },
                 {
                     "UserMassage": "i feel happy to talk to you",
                     "RobotMassage": "oh that's so sweet"
                 },
                 {
-                    "UserMassage": "I'm sick",
-                    "RobotMassage": "😢 I wish you a speedy recovery"
+                    "UserMassage": "I'm not in a good mood today",
+                    "RobotMassage": "oh that's so sweet"
                 }
+               
             ]
         },
         {
@@ -61,7 +73,7 @@
                 },
                 {
                     "UserMassage": "i'm More than 15",
-                    "RobotMassage": "nice"
+                    "RobotMassage": "You look like a good student"
                 },
                 {
                     "UserMassage": "i'm less than 20",
@@ -69,11 +81,11 @@
                 },
                 {
                     "UserMassage": "i'm More than 20",
-                    "RobotMassage": "nice"
+                    "RobotMassage": "you are young, don't waste your time playing"
                 },
                 {
                     "UserMassage": "i'm More than 30",
-                    "RobotMassage": "nice"
+                    "RobotMassage": "nice,But you still look young"
                 }
             ]
         },
@@ -82,25 +94,26 @@
             "ID": 3,
             "MessageType": 0,
             "Anser": [
+                
                 {
-                    "UserMassage": "yes",
-                    "RobotMassage": "Bingo:)"
+                    "UserMassage": "you're Ms. Onyx Grudge",
+                    "RobotMassage": "No ,i am Ms. jodie bates"
                 },
                 {
-                    "UserMassage": "you're scary sonic",
-                    "RobotMassage": "Bingo:)"
+                    "UserMassage": "No, I haven't had the honor to meet you yet",
+                    "RobotMassage": "i am Ms. Ms. jodie bates"
                 },
                 {
-                    "UserMassage": "No",
-                    "RobotMassage": "i am scary sonic"
-                },
-                {
-                    "UserMassage": "sonic",
-                    "RobotMassage": "no i'm scary sonic"
+                    "UserMassage": "Teacher",
+                    "RobotMassage": "Yes i'm Ms. jodie bates,the math teacher"
                 },
                 {
                     "UserMassage": "i don't know you",
-                    "RobotMassage": "i am scary sonic"
+                    "RobotMassage": "i am math teacher,Ms. jodie bates"
+                },
+                {
+                    "UserMassage": "yes",
+                    "RobotMassage": "I do not think so"
                 }
             ]
         },
@@ -110,34 +123,58 @@
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "where're you from?",
-                    "RobotMassage": "I'm from usa"
+                    "UserMassage": "where're you live?",
+                    "RobotMassage": "I live in a small cabin in a deserted forest,After I was a mathematics teacher in a prestigious school"
                 },
                 {
                     "UserMassage": "what kind of food do you like?",
-                    "RobotMassage": "i like almost everything,and my favorite is pizza"
+                    "RobotMassage": "The truth is, I love vegetables, but I crave marshmallows"
                 },
                 {
-                    "UserMassage": "favorite cartoon?",
-                    "RobotMassage": "i like ghost hunting people"
+                    "UserMassage": "Are you still a math teacher?",
+                    "RobotMassage": "Ah, No, im  retired now"
                 },
                 {
-                    "UserMassage": "do you think money can buy happiness?",
-                    "RobotMassage": "yes of course it helps"
+                    "UserMassage": "how old are you?",
+                    "RobotMassage": "I don't remember exactly, but I am over seventy centuries old"
                 },
                 {
                     "UserMassage": "are you here everytime?",
                     "RobotMassage": "yes i'm always watching you"
+                },
+                {
+                    "UserMassage": "What are you doing in free time?",
+                    "RobotMassage": " In his spare time I raise frogs, but recently I found that frogs disappear suddenly, do you have any idea about that?"
                 }
             ]
         },
         {
-            "RobotQuestion": "so i have a challenge for you,just give me the number for 9+6",
-            "ID": 5,
+            "RobotQuestion": "I think you know something about the disappearance of frogs in the backyard of the school. I want to ask you, do you know anything?",
+            "ID": 6,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "15",
+                    "UserMassage": "yes",
+                    "RobotMassage": "great job,If you know anything about my disappearance of frogs, please contact me "
+                },
+                {
+                    "UserMassage": "No",
+                    "RobotMassage": "Well I thought you knew something about that,but If you know anything about my disappearance of frogs, please contact me"
+                },
+                {
+                    "UserMassage": "I don't know",
+                    "RobotMassage": "Well let's go for another questions"
+                }
+            ]
+        },
+
+        {
+            "RobotQuestion": "so i have a challenge for you,just give me the number for 1+6",
+            "ID": 7,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "5",
                     "RobotMassage": "great job "
                 },
                 {
@@ -151,103 +188,123 @@
             ]
         },
         {
-            "RobotQuestion": "How many colors are in rainbows?",
-            "ID": 6,
+            "RobotQuestion": "Do you like fantasy animals?",
+            "ID": 5,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "6",
-                    "RobotMassage": "oops that's wrong"
+                    "UserMassage": "I love unicorns",
+                    "RobotMassage": "It's a very lovable animal I wish we had one in the back garden of the school"
                 },
                 {
-                    "UserMassage": "8",
-                    "RobotMassage": "your answer is wrong "
+                    "UserMassage": "I love phoenix",
+                    "RobotMassage": "He's a legendary bird, we have one at school "
                 },
                 {
-                    "UserMassage": "7",
+                    "UserMassage": "I don't like fairy animals",
                     "RobotMassage": "wow you're relly smart😀"
                 }
             ]
         },
         {
-            "RobotQuestion": "ask me!!",
-            "ID": 7,
-            "MessageType": 0,
-            "Anser": [
-                {
-                    "UserMassage": "how many luanguages do you speak?",
-                    "RobotMassage": "i speak spanich and english"
-                },
-                {
-                    "UserMassage": "What pet would you love to have?",
-                    "RobotMassage": "i love humans ;)"
-                },
-                {
-                    "UserMassage": "what do you like to do in your spare time?",
-                    "RobotMassage": "i like to catch young and eat them :)"
-                }
-            ]
-        },
-        {
-            "RobotQuestion": "how many fingers do we have in our hands?",
+            "RobotQuestion": "I know you're curious to know more about me, you can ask me!!",
             "ID": 8,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "5",
-                    "RobotMassage": "wrong answer"
+                    "UserMassage": "You really like to raise frogs?",
+                    "RobotMassage": "Yes, I love to keep frogs, I consider them a pet"
                 },
                 {
-                    "UserMassage": "10",
-                    "RobotMassage": "that's correct"
+                    "UserMassage": "Do you have a pet?",
+                    "RobotMassage": "Yes, I have a large group of frogs in the back garden of the school"
                 },
                 {
-                    "UserMassage": "i'm not sure",
-                    "RobotMassage": "Well let's go for another challenge"
+                    "UserMassage": "Do you suspect anyone is the reason for the disappearance of frogs?",
+                    "RobotMassage": "Yes, I suspect an old owl ran around the back garden, found it taking a frog, i cast a spell and killed it last week 😀"
                 }
+,
+                {
+                    "UserMassage": "Do you have a boyfriend?",
+                    "RobotMassage": " Yes, one of the frogs was my lover. He was a prince who was replaced and turned into a frog. That's why I keep frogs in the back garden, so that I may find my lover "
+                }
+
+
             ]
         },
         {
-            "RobotQuestion": "can you tell me who's the king of jungle?",
+            "RobotQuestion": "Do you have siblings?",
             "ID": 9,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "scary sonic",
-                    "RobotMassage": "you god damn right"
+                    "UserMassage": "yes",
+                    "RobotMassage": "this is good"
                 },
                 {
-                    "UserMassage": "Gorilla",
-                    "RobotMassage": "oops that's wrong"
+                    "UserMassage": "No ",
+                    "RobotMassage": "But you don't look lonely, you have a family mom and dad"
                 },
                 {
-                    "UserMassage": "Lion",
-                    "RobotMassage": "i'll accept that :("
+                    "UserMassage": "i'm not sure",
+                    "RobotMassage": "Well, I don't want to get into this"
                 }
             ]
         },
         {
-            "RobotQuestion": "awesome can you tell me how much 2*4?",
+            "RobotQuestion": "Do you think the old owl is the cause of the frogs disappearing??",
             "ID": 10,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "6",
-                    "RobotMassage": "wrong answer"
+                    "UserMassage": "yes",
+                    "RobotMassage": "But the frogs are still disappearing"
                 },
                 {
-                    "UserMassage": "8",
-                    "RobotMassage": "that's correct"
+                    "UserMassage": "No",
+                    "RobotMassage": "Yes I thought the same because the frogs are still disappearing"
                 },
                 {
                     "UserMassage": "i'm not sure",
-                    "RobotMassage": "it's 8 but it's ok"
+                    "RobotMassage": "I doubt it too, but I found a baseball bat in the park, and I think the owner might have had a hand in that."
                 }
             ]
         },
         {
-            "RobotQuestion": "ask me some questions!!",
-            "ID": 7,
+            "RobotQuestion": "Well can I ask you what time is it now?",
+            "ID": 11,
+            "MessageType": 0,
+            "Anser": [
+                {
+                    "UserMassage": "It's morning",
+                    "RobotMassage": "Did you take your breakfast because breakfast is an important meal?"
+                },
+                {
+                    "UserMassage": "It's noon",
+                    "RobotMassage": "I think I'm going to take a little nap"
+                },
+                {
+                    "UserMassage": "it's evening",
+                    "RobotMassage": "I have to feed the frogs"
+                },
+                {
+                    "UserMassage": "it's night",
+                    "RobotMassage": "I think I should make dinner"
+                },
+                {
+                    "UserMassage": "It's after the demise",
+                    "RobotMassage": "I love watching the sunset"
+                },
+                {
+                    "UserMassage": "It's midnight",
+                    "RobotMassage": "I think it's time to sleep"
+                }
+
+            ]
+        },
+        {
+            "RobotQuestion": "you can ask me some questions!!",
+            "ID": 12,
             "MessageType": 0,
             "Anser": [
                 {
@@ -256,29 +313,29 @@
                 },
                 {
                     "UserMassage": "Do you sing in the shower?",
-                    "RobotMassage": "yes hahaha i think everybody does it"
+                    "RobotMassage": "No, i don't think everybody does it"
                 },
                 {
-                    "UserMassage": "Who is your celebrity crush?",
-                    "RobotMassage": "i love me"
+                    "UserMassage": "Do you have a boyfriend?",
+                    "RobotMassage": "Yes,But I miss him so much"
                 }
             ]
         },
         {
-            "RobotQuestion": "now tell me the thing that makes you cry every time you peel it?",
-            "ID": 11,
+            "RobotQuestion": "Looks like we had a nice time ?",
+            "ID": 13,
             "MessageType": 0,
             "Anser": [
                 {
-                    "UserMassage": "fish",
-                    "RobotMassage": "wrong answer"
+                    "UserMassage": "Yes I enjoyed it See you later",
+                    "RobotMassage": "Thank you see you later"
                 },
                 {
-                    "UserMassage": "apples",
-                    "RobotMassage": "that's correct"
+                    "UserMassage": "Yes, but I still haven't finished talking to you",
+                    "RobotMassage": "I'm sorry but I have work to do"
                 },
                 {
-                    "UserMassage": "onions",
+                    "UserMassage": "I do not think so",
                     "RobotMassage": "perfect :)can you call me now?"
                 }
             ]
