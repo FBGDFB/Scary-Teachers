@@ -7,7 +7,7 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/1.jpg",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/scary.teacher.png",
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/voice1.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/video1.mp4",
