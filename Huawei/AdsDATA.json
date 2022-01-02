@@ -1,10 +1,10 @@
 {
     "Virtion": "v1.0.0",
-    "OfferWellappKey": "1260a05bd",
+    "OfferWellappKey": "105122959",
     "EnableOfferWell": 1,
-    "EnableAdsTestMode": 1,
+    "EnableAdsTestMode": 0,
     "UseTestMode": true,
-    "appKey": "1260a05bd",
+    "appKey": "105122959",
     "bannerAdUnit": "e7rudmxu9j",
     "interstitialAdUnit": "s2a0n4ygjl",
     "rewardedVideoAdUnit": "q7w6qhy4f2",
