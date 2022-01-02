@@ -26,7 +26,7 @@
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw1/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw1/hero_video.mp4",
             "Best": true,
-            "New": false,
+            "New": true,
             "Coins": 12
         },
         {
@@ -68,7 +68,7 @@
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/neigh_audio.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/neigh_video2.mp4",
             "Best": true,
-            "New": true,
+            "New": false,
             "Coins": 15
         }
     ]
