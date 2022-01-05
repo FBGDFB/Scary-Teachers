@@ -1,10 +1,22 @@
 { 
-    "Virtion": 2,
+    "Virtion": 3,
     "Data": [
         {
             "Name": "",
             "IconUrl": "https://raw.githubusercontent.com/FBGDFB/HoGoPro/main/Huawei%20Ads/unnamed.png",
             "GameUrl": "",
+            "Stars": 5
+        }, 
+        {
+            "Name": "Squid Game",
+            "IconUrl": "https://appimg2.dbankcdn.com/application/screenshut3/65/e4c32afcfc6c4bf7afcce6db7510c7f1.jpg",
+            "GameUrl": "https://appgallery.cloud.huawei.com/gs/n/app/C105107245?locale=en_US&source=appshare&subsource=C105107245&shareTo=org.telegram.messenger&shareFrom=gamebox",
+            "Stars": 5
+        }, 
+        {
+            "Name": "Squid challenge",
+            "IconUrl": "https://appimg2.dbankcdn.com/application/screenshut4/65/e4c32afcfc6c4bf7afcce6db7510c7f1.jpg",
+            "GameUrl": "https://appgallery.cloud.huawei.com/gs/n/app/C105107245?locale=en_US&source=appshare&subsource=C105107245&shareTo=org.telegram.messenger&shareFrom=gamebox",
             "Stars": 5
         },
         {
