@@ -1,5 +1,5 @@
 {
-    "Virtion": 3,
+    "Virtion": 4,
     "Data": [
         {
             "Name": "Ms Judy Dellfire",
@@ -67,6 +67,34 @@
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/neigh_audio.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/neigh_video2.mp4",
+            "Best": true,
+            "New": false,
+            "Coins": 15
+        },
+         {
+            "Name": "Mr. Ice Cream",
+            "Nomber": "+09633 82 45 32",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/icecreamscary.jpg",
+            "ChatDataUrl": " ",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/audio_ice_scream.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/video_ice_scream.mp4",
+            "Best": true,
+            "New": false,
+            "Coins": 15
+        }
+        {
+            "Name": "Mr. Creepy Clown",
+            "Nomber": "+09600 80 40 02",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/ScaryClone.jpg",
+            "ChatDataUrl": " ",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_audio.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_video.mp4",
             "Best": true,
             "New": false,
             "Coins": 15
