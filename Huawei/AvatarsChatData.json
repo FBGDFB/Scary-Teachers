@@ -1,5 +1,5 @@
 {
-    "Virtion": 4,
+    "Virtion": 5,
     "Data": [
         {
             "Name": "Ms Judy Dellfire",
@@ -98,6 +98,21 @@
             "Best": true,
             "New": false,
             "Coins": 15
+        },
+        {
+            "Name": "Scary Sonic",
+            "Nomber": "+2029088230",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/Scary%20sonic.jpg",
+            "ChatDataUrl": "http://194.163.154.196/allchats/scarysonic1E.json",
+            "CallDataUrl": "http://194.163.154.196/allaudios/scarysonic1.mp3",
+            "VideoDataUrl": "http://194.163.154.196/allvideos/scarysonic1.mp4",
+            "Best": true,
+            "New": false,
+            "Coins": 10
         }
+         
     ]
 }
