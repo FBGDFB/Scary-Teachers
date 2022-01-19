@@ -83,7 +83,7 @@
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/video_ice_scream.mp4",
             "Best": true,
             "New": false,
-            "Coins": 15
+            "Coins":0
         },
         {
             "Name": "Mr. Creepy Clown",
@@ -97,7 +97,7 @@
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_video.mp4",
             "Best": true,
             "New": false,
-            "Coins": 15
+            "Coins": 0
         },
         {
             "Name": "Scary Sonic",
@@ -111,7 +111,7 @@
             "VideoDataUrl": "http://194.163.154.196/allvideos/scarysonic1.mp4",
             "Best": true,
             "New": false,
-            "Coins": 10
+            "Coins": 0
         }
          
     ]
