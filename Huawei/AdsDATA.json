@@ -1,8 +1,8 @@
 {
-    "Virtion": "v1.0.2",
+    "Virtion": "v1.0.3",
     "OfferWellappKey": "",
     "EnableOfferWell": 1,
-    "EnableAdsTestMode": 0,
+    "EnableAdsTestMode": 1,
     "appKey": "",
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
