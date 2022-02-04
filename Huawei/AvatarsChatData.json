@@ -7,7 +7,7 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/scary.teacher.png",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers2/scary.teacher7.jpg",
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/voice1.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/video1.mp4",
@@ -35,7 +35,7 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/3.jpg",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers2/scary.teacher6.jpg",
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/hero_video.mp4",
@@ -49,7 +49,7 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/4.jpg",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers2/scary.teacher.jpg",
             "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw3/Chat.json",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/hero_voice.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw3/cdv.mp4",
@@ -77,13 +77,13 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/icecreamscary.jpg",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers2/iscrim.jpg",
             "ChatDataUrl": " ",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/audio_ice_scream.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/video_ice_scream.mp4",
             "Best": true,
             "New": false,
-            "Coins":0
+            "Coins":10
         },
         {
             "Name": "Mr. Creepy Clown",
@@ -91,13 +91,13 @@
             "Icon": {
                 "instanceID": 0
             },
-            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/ScaryClone.jpg",
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers2/ScaryClone.jpg",
             "ChatDataUrl": " ",
             "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_audio.mp3",
             "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_video.mp4",
             "Best": true,
             "New": false,
-            "Coins": 0
+            "Coins": 10
         },
         {
             "Name": "Scary Sonic",
@@ -111,7 +111,7 @@
             "VideoDataUrl": "http://194.163.154.196/allvideos/scarysonic1.mp4",
             "Best": true,
             "New": false,
-            "Coins": 0
+            "Coins": 10
         }
          
     ]
