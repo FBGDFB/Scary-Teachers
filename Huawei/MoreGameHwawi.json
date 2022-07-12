@@ -5,29 +5,28 @@
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/60990c74a932437fbd6ab2cf74f0dca8.png",
        "GameUrl":"https://appgallery.huawei.com/app/C105390661"
    },
-    {
+   {
        "Name":"Mommy Long Legs",
        "Description":"Calling simulator for incoming call from Mommy Long Legs ,",
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/09b495c88858486eb83ff18a1a2356c5.png",
        "GameUrl":"https://appgallery.huawei.com/app/C106480391"
    },
-  
   {
        "Name":"Sort Candy Bobbles",
        "Description":"From  the legendary Dreaming Boy comes Sort Candy Bobbles Saga! Unique candies",
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/78a4e5be4be540588f88985a0b347711.png",
        "GameUrl":"https://appgallery.huawei.com/app/C105039399"
-   }
- ,
+   },
   {
-       "Name":"coloring book Kids",
-       "Description":"The best app for coloring book therapy is now on your Android phone!",
-       "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/dac8fc01dcbb46e0b6307d4846f74226.png",
-       "GameUrl":"https://appgallery.huawei.com/app/C105266641"
-   },{
+      "Name": " ",
+      "IconUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/Merge%20Monster/ADS/MergeMaster.png",
+      "GameUrl": "https://appgallery.huawei.com/app/C106623819",
+      "Stars": 5
+ },
+ {
        "Name":"Coloring Unicorn 3D ",
        "Description":"The most original unicorns are waiting for you! Color amazing unicorn 3d",
        "IconUrl":"https://appimg2.dbankcdn.com/application/icon144/65/f70a161c526d4f428e053538873325bb.png",
        "GameUrl":"https://appgallery.huawei.com/app/C105590759"
-   }
+  }
 ]
